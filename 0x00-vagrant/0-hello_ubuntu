@@ -1,0 +1,2 @@
+The uname command is used to print system information. When you run uname without any options, it prints the operating system name of the current system. For example, on a Linux system, running uname would print Linux, while on a macOS system, it would print Darwin.
+
